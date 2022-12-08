@@ -1,0 +1,16 @@
+{
+  "name": "28112022",
+  "version": "1.0.0",
+  "description": "mongo example",
+  "main": "app.ts",
+  "scripts": {
+    "dev": "ts-node app.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.12.1"
+  }
+}
